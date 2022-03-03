@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ikitiapp/static/css/main.073c9b0a.css",
+    "main.js": "/ikitiapp/static/js/main.59c31195.js",
+    "static/js/787.a67e4ba0.chunk.js": "/ikitiapp/static/js/787.a67e4ba0.chunk.js",
+    "static/media/logo.svg": "/ikitiapp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ikitiapp/index.html",
+    "main.073c9b0a.css.map": "/ikitiapp/static/css/main.073c9b0a.css.map",
+    "main.59c31195.js.map": "/ikitiapp/static/js/main.59c31195.js.map",
+    "787.a67e4ba0.chunk.js.map": "/ikitiapp/static/js/787.a67e4ba0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.59c31195.js"
+  ]
+}
